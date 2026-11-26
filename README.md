@@ -1,2 +1,5 @@
 # cobalt-runner
-Lightweight RabbitMQ utilities and helpers (cobalt-runner)
+
+Lightweight `RabbitMQ` utilities maintained by @miragesh53.
+
+- Focus: Automating the parts of the job I keep forgetting.
